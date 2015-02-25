@@ -1,0 +1,2 @@
+#! /bin/bash
+gcc test.c graphics.c matrix.c vector.c -lSDL -lm -o test
